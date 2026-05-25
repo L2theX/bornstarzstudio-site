@@ -4,7 +4,7 @@ export default function Home() {
     <main
       style={{
         minHeight: '100vh',
-        backgroundColor: backgroundColor: 'black',
+        backgroundColor: 'black',
 backgroundImage: "url('/ChatGPT Image May 25.png')",
 backgroundSize: 'cover',
 backgroundPosition: 'center',
