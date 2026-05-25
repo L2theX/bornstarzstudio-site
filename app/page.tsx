@@ -105,6 +105,14 @@ export default function Home() {
          margin: '0 auto 50px 0',
         }}
       >
+        <img
+  src="/PUT-ARIA-FILENAME-HERE"
+  alt="Aria Esme Logo"
+  style={{
+    width: '260px',
+    marginBottom: '20px',
+  }}
+/>
         <h2
           style={{
             color: '#FFD700',
