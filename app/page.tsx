@@ -89,7 +89,7 @@ export default function Home() {
 </div>
       <section
         style={{
-          backgroundColor: '#111111',
+          backgroundColor: 'rgba(0,0,0,0.45)',
           padding: '50px',
           borderRadius: '20px',
           maxWidth: '900px',
