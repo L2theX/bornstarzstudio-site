@@ -4,7 +4,7 @@ export default function Home() {
     <main
       style={{
         minHeight: '100vh',
-       background: "linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.75)), url('/background.png') center/cover no-repeat fixed",
+       background: "linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.75)), url('/ChatGPT%20Image%20May%2025,%202026,%2001_46_53%20PM.png') center/cover no-repeat fixed",
         color: 'white',
         fontFamily: 'Arial',
         padding: '60px',
