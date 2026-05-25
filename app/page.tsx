@@ -93,6 +93,7 @@ export default function Home() {
     justifyContent: 'space-between',
     gap: '40px',
     flexWrap: 'wrap',
+    alignItems: 'flex-start',
     marginBottom: '50px',
   }}
 > 
