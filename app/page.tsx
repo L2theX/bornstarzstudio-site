@@ -5,10 +5,11 @@ export default function Home() {
       style={{
         minHeight: '100vh',
         backgroundColor: 'transparent',
-backgroundImage: "url('/ChatGPT%20Image%20May25,%202026,%2001_46_53%20PM.png')",
-backgroundSize: 'cover',
+backgroundImage: "linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.75)), url('/background.png')",
+
+  backgroundSize: 'cover',
 backgroundPosition: 'center',
-backgroundAttachment: 'fixed',
+backgroundRepeat: 'no-repeat',     
         color: 'white',
         fontFamily: 'Arial',
         padding: '60px',
