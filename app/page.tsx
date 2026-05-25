@@ -1,48 +1,6 @@
 export default function Home() {
   return (
-     <nav
-    style={{
-      display: 'flex',
-      justifyContent: 'center',
-      gap: '30px',
-      padding: '25px',
-      borderBottom: '1px solid #222',
-      marginBottom: '40px',
-    }}
-  >
-    <a
-      href="#"
-      style={{
-        color: '#FFD700',
-        textDecoration: 'none',
-        fontSize: '18px',
-      }}
-    >
-      Home
-    </a>
-
-    <a
-      href="#"
-      style={{
-        color: '#FFD700',
-        textDecoration: 'none',
-        fontSize: '18px',
-      }}
-    >
-      Music
-    </a>
-
-    <a
-      href="#"
-      style={{
-        color: '#FFD700',
-        textDecoration: 'none',
-        fontSize: '18px',
-      }}
-    >
-      Contact
-    </a>
-  </nav>
+  
     <main
       style={{
         minHeight: '100vh',
