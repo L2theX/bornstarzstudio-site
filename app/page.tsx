@@ -111,7 +111,7 @@ export default function Home() {
   src="/71a024787425118b371251945e6fda3b832da638ca497a00010e0f0cf92a472a.webp"
   alt="Aria Esme Logo"
   style={{
-  width: '420px',
+  width: '320px',
   marginBottom: '20px',
   position: 'relative',
   top: '-260px',
@@ -141,7 +141,7 @@ export default function Home() {
           backgroundColor: 'rgba(0,0,0,0.45)',
           padding: '50px',
           borderRadius: '20px',
-          maxWidth: '420px',
+          maxWidth: '620px',
           margin: '120px 0 50px auto',
         }}
       >
