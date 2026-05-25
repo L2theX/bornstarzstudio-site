@@ -4,12 +4,7 @@ export default function Home() {
     <main
       style={{
         minHeight: '100vh',
-        backgroundColor: 'transparent',
-backgroundImage: "linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.75)), url('/background.png')",
-
-  backgroundSize: 'cover',
-backgroundPosition: 'center',
-backgroundRepeat: 'no-repeat',     
+       background: "linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.75)), url('/background.png') center/cover no-repeat fixed",
         color: 'white',
         fontFamily: 'Arial',
         padding: '60px',
