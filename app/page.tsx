@@ -152,7 +152,7 @@ export default function Home() {
           Bringing real love, loyalty, and emotion back into music.
         </p>
       </section>
-
+</div>
       <section
         style={{
           marginTop: '60px',
