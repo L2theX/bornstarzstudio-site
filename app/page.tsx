@@ -29,7 +29,63 @@ export default function Home() {
       >
         Music Production • Songwriting • Recording
       </p>
+<div
+  style={{
+    display: 'flex',
+    justifyContent: 'center',
+    gap: '20px',
+    flexWrap: 'wrap',
+    marginBottom: '80px',
+  }}
+>
+  <a
+    href="https://spotify.com"
+    target="_blank"
+    style={{
+      backgroundColor: '#FFD700',
+      color: 'black',
+      padding: '16px 28px',
+      borderRadius: '12px',
+      textDecoration: 'none',
+      fontWeight: 'bold',
+      fontSize: '18px',
+    }}
+  >
+    Spotify
+  </a>
 
+  <a
+    href="https://youtube.com"
+    target="_blank"
+    style={{
+      border: '2px solid #FFD700',
+      color: '#FFD700',
+      padding: '16px 28px',
+      borderRadius: '12px',
+      textDecoration: 'none',
+      fontWeight: 'bold',
+      fontSize: '18px',
+    }}
+  >
+    YouTube
+  </a>
+
+  <a
+    href="https://soundcloud.com"
+    target="_blank"
+    style={{
+      border: '2px solid #FFD700',
+      color: '#FFD700',
+      padding: '16px 28px',
+      borderRadius: '12px',
+      textDecoration: 'none',
+      fontWeight: 'bold',
+      fontSize: '18px',
+    }}
+  >
+    SoundCloud
+  </a>
+</div>
       <section
         style={{
           backgroundColor: '#111111',
