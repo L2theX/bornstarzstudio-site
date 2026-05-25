@@ -87,6 +87,34 @@ export default function Home() {
     SoundCloud
   </a>
 </div>
+       <section
+        style={{
+          backgroundColor: 'rgba(0,0,0,0.45)',
+          padding: '50px',
+          borderRadius: '20px',
+          maxWidth: '420px',
+          margin: '0 0 50px auto',
+        }}
+      >
+        <h2
+          style={{
+            color: '#FFD700',
+            fontSize: '42px',
+          }}
+        >
+          Walked in Drippin
+        </h2>
+
+        <p
+          style={{
+            fontSize: '22px',
+            lineHeight: '1.8',
+            color: '#cccccc',
+          }}
+        >
+          When the look speaks before Introduction
+        </p>
+      </section>
       <section
         style={{
           backgroundColor: 'rgba(0,0,0,0.45)',
