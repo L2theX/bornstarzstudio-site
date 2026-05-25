@@ -87,7 +87,16 @@ export default function Home() {
     SoundCloud
   </a>
 </div>
-       <section
+      <div
+  style={{
+    display: 'flex',
+    justifyContent: 'space-between',
+    gap: '40px',
+    flexWrap: 'wrap',
+    marginBottom: '50px',
+  }}
+> 
+      <section
         style={{
           backgroundColor: 'rgba(0,0,0,0.45)',
           padding: '50px',
