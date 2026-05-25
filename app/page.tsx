@@ -5,7 +5,7 @@ export default function Home() {
       style={{
         minHeight: '100vh',
         backgroundColor: 'black',
-backgroundImage: "url('/ChatGPT Image May 25.png')",
+backgroundImage: "url('/ChatGPT%20Image%20May%2025.png')",
 backgroundSize: 'cover',
 backgroundPosition: 'center',
 backgroundAttachment: 'fixed',,
