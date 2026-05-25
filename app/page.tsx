@@ -145,6 +145,7 @@ export default function Home() {
           margin: '120px 0 50px auto',
         }}
       >
+       public/ChatGPT Image May 25, 2026, 04_41_46 PM.png
         <h2
           style={{
             color: '#FFD700',
