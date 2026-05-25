@@ -113,7 +113,7 @@ export default function Home() {
   style={{
     width: '260px',
     marginBottom: '20px',
- marginTop: '-120px',
+ marginTop: '-320px',
   }}
 />
         <h2
