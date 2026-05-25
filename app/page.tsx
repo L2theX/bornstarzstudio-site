@@ -152,7 +152,7 @@ export default function Home() {
     width: '520px',
     marginBottom: '20px',
     position: 'relative',
-    top: '-400px',
+    top: '-500px',
   }}
 />
         <h2
