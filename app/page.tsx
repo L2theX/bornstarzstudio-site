@@ -8,7 +8,7 @@ export default function Home() {
 backgroundImage: "url('/ChatGPT%20Image%20May%2025.png')",
 backgroundSize: 'cover',
 backgroundPosition: 'center',
-backgroundAttachment: 'fixed',,
+backgroundAttachment: 'fixed',
         color: 'white',
         fontFamily: 'Arial',
         padding: '60px',
