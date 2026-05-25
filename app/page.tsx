@@ -1,48 +1,62 @@
-export default function Home() {
-  return (
-    <main style={{
-      minHeight: '100vh',
-      background: 'black',
-      color: 'white',
-      fontFamily: 'Arial',
-      padding: '60px',
-      textAlign: 'center'
-    }}>
-      <h1 style={{
-        fontSize: '64px',
-        color: 'gold'
-      }}>
-        Born Starz Studio
-      </h1>
 
-      <p style={{
-        fontSize: '24px',
-        marginTop: '20px'
-      }}>
-        Music • Production • Songwriting
-      </p>
+}export default function Home() {
+        style={{
+          backgroundColor: '#111111',
+          padding: '100px 30px',
+          textAlign: 'center',
+        }}
+      >
+        <h2
+          style={{
+            color: '#FFD700',
+            fontSize: '48px',
+            marginBottom: '40px',
+          }}
+        >
+          Contact
+        </h2>
 
-      <div style={{
-        marginTop: '50px'
-      }}>
-        <h2>Latest Release</h2>
+        <div
+          style={{
+            maxWidth: '700px',
+            margin: '0 auto',
+            backgroundColor: '#1a1a1a',
+            borderRadius: '24px',
+            padding: '50px',
+            border: '1px solid #333',
+          }}
+        >
+          <p
+            style={{
+              fontSize: '30px',
+              marginBottom: '20px',
+              color: 'white',
+            }}
+          >
+            bornstarz@gmail.com
+          </p>
 
-        <p>
-          Love Over Everything
-        </p>
-      </div>
+          <p
+            style={{
+              fontSize: '22px',
+              color: '#FFD700',
+            }}
+          >
+            bornstarzstudio.online
+          </p>
+        </div>
+      </section>
 
-      <div style={{
-        marginTop: '80px'
-      }}>
-        <p>
-          bornstarz@gmail.com
-        </p>
-
-        <p>
-          bornstarzstudio.online
-        </p>
-      </div>
+      {/* FOOTER */}
+      <footer
+        style={{
+          textAlign: 'center',
+          padding: '30px',
+          color: '#777',
+          borderTop: '1px solid #222',
+        }}
+      >
+        © 2026 Born Starz Studio. All Rights Reserved.
+      </footer>
     </main>
   )
-}
