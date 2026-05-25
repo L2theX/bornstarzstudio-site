@@ -145,7 +145,16 @@ export default function Home() {
           margin: '120px 0 50px auto',
         }}
       >
-       public/ChatGPT Image May 25, 2026, 04_41_46 PM.png
+    <img
+  src="/ChatGPT%20Image%20May%2025,%202026,%2004_41_46%20PM.png"
+  alt="DiMarco Logo"
+  style={{
+    width: '260px',
+    marginBottom: '20px',
+    position: 'relative',
+    top: '-260px',
+  }}
+/>
         <h2
           style={{
             color: '#FFD700',
