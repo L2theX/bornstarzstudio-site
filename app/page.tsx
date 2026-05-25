@@ -93,7 +93,7 @@ export default function Home() {
           padding: '50px',
           borderRadius: '20px',
           maxWidth: '420px',
-          margin: '0 0 50px auto',
+         margin: '0 auto 50px 0',,
         }}
       >
         <h2
