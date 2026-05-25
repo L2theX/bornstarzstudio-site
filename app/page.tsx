@@ -111,7 +111,7 @@ export default function Home() {
   src="/71a024787425118b371251945e6fda3b832da638ca497a00010e0f0cf92a472a.webp"
   alt="Aria Esme Logo"
   style={{
-  width: '260px',
+  width: '420px',
   marginBottom: '20px',
   position: 'relative',
   top: '-260px',
@@ -149,7 +149,7 @@ export default function Home() {
   src="/ChatGPT%20Image%20May%2025,%202026,%2004_41_46%20PM.png"
   alt="DiMarco Logo"
   style={{
-    width: '260px',
+    width: '420px',
     marginBottom: '20px',
     position: 'relative',
     top: '-260px',
