@@ -1,62 +1,86 @@
+export default function Home() {
+  return (
+    <main
+      style={{
+        minHeight: '100vh',
+        backgroundColor: 'black',
+        color: 'white',
+        fontFamily: 'Arial',
+        padding: '60px',
+        textAlign: 'center',
+      }}
+    >
+      <h1
+        style={{
+          fontSize: '72px',
+          color: '#FFD700',
+          marginBottom: '20px',
+        }}
+      >
+        Born Starz Studio
+      </h1>
 
-}export default function Home() {
+      <p
+        style={{
+          fontSize: '28px',
+          color: '#cccccc',
+          marginBottom: '60px',
+        }}
+      >
+        Music Production • Songwriting • Recording
+      </p>
+
+      <section
         style={{
           backgroundColor: '#111111',
-          padding: '100px 30px',
-          textAlign: 'center',
+          padding: '50px',
+          borderRadius: '20px',
+          maxWidth: '900px',
+          margin: '0 auto 50px auto',
         }}
       >
         <h2
           style={{
             color: '#FFD700',
-            fontSize: '48px',
-            marginBottom: '40px',
+            fontSize: '42px',
+          }}
+        >
+          Love Over Everything
+        </h2>
+
+        <p
+          style={{
+            fontSize: '22px',
+            lineHeight: '1.8',
+            color: '#cccccc',
+          }}
+        >
+          Bringing real love, loyalty, and emotion back into music.
+        </p>
+      </section>
+
+      <section
+        style={{
+          marginTop: '60px',
+        }}
+      >
+        <h2
+          style={{
+            color: '#FFD700',
+            fontSize: '38px',
           }}
         >
           Contact
         </h2>
 
-        <div
-          style={{
-            maxWidth: '700px',
-            margin: '0 auto',
-            backgroundColor: '#1a1a1a',
-            borderRadius: '24px',
-            padding: '50px',
-            border: '1px solid #333',
-          }}
-        >
-          <p
-            style={{
-              fontSize: '30px',
-              marginBottom: '20px',
-              color: 'white',
-            }}
-          >
-            bornstarz@gmail.com
-          </p>
+        <p style={{ fontSize: '24px' }}>
+          bornstarz@gmail.com
+        </p>
 
-          <p
-            style={{
-              fontSize: '22px',
-              color: '#FFD700',
-            }}
-          >
-            bornstarzstudio.online
-          </p>
-        </div>
+        <p style={{ fontSize: '20px', color: '#FFD700' }}>
+          bornstarzstudio.online
+        </p>
       </section>
-
-      {/* FOOTER */}
-      <footer
-        style={{
-          textAlign: 'center',
-          padding: '30px',
-          color: '#777',
-          borderTop: '1px solid #222',
-        }}
-      >
-        © 2026 Born Starz Studio. All Rights Reserved.
-      </footer>
     </main>
   )
+}
