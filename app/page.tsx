@@ -102,7 +102,7 @@ export default function Home() {
           padding: '50px',
           borderRadius: '20px',
           maxWidth: '420px',
-         margin: '0 auto 50px 0',
+         margin: '120px auto 50px 0',
         }}
       >
  
@@ -114,7 +114,7 @@ export default function Home() {
   width: '300px',
   marginBottom: '20px',
   position: 'relative',
-  top: '-260px',
+  top: '-380px',
 }}
 />
         <h2
