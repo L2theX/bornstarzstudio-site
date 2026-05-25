@@ -142,7 +142,7 @@ export default function Home() {
           padding: '50px',
           borderRadius: '20px',
           maxWidth: '620px',
-          margin: '60px 0 50px auto',
+          margin: '20px 0 50px auto',
         }}
       >
     <img
