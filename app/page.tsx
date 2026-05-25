@@ -180,7 +180,6 @@ export default function Home() {
           bornstarzstudio.online
         </p>
       </section>
-       </main>
-    </>
+    </main>
   )
 }
