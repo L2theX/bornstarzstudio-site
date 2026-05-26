@@ -170,11 +170,11 @@ export default function Home() {
     top: '-300px',
   }}
 />
-       <img
+      <img
   src="/ChatGPT%20Image%20May%2015,%202026,%2011_41_01%20AM.png"
   alt="DiMarco"
   style={{
-    width: '320px',
+    width: '520px',
     borderRadius: '20px',
     marginTop: '-260px',
     marginBottom: '20px',
