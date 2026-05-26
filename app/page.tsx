@@ -207,6 +207,22 @@ export default function Home() {
           marginTop: '60px',
         }}
       >
+        <div
+  style={{
+    textAlign: 'center',
+    marginTop: '120px',
+    marginBottom: '40px',
+  }}
+>
+  <img
+    src="/9475D825-DEB0-4F60-9AEA-47A4BF95B09A%20(1).PNG"
+    alt="Born Starz Studio Logo"
+    style={{
+      width: '320px',
+      opacity: '0.95',
+    }}
+  />
+</div>
         <h2
           style={{
             color: '#FFD700',
