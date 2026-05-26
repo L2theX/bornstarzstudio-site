@@ -177,7 +177,7 @@ export default function Home() {
   style={{
     width: '520px',
     borderRadius: '20px',
-    marginTop: '-260px',
+    marginTop: '-320px',
     marginBottom: '20px',
   }}
 />
