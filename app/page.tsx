@@ -164,9 +164,10 @@ export default function Home() {
   src="/ChatGPT%20Image%20May%2025,%202026,%2004_41_46%20PM.png"
   alt="DiMarco Logo"
   style={{
-    width: '520px',
+    width: '580px',
     marginBottom: '20px',
     position: 'relative',
+    left: '30px'
     top: '-300px',
   }}
 />
