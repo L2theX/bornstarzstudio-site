@@ -120,7 +120,16 @@ export default function Home() {
 />
      
   
-
+<img
+  src="/ChatGPT%20Image%20May%2012,%202026,%2008_28_25%202PM.png2.png"
+  alt="Aria Esme"
+  style={{
+    width: '320px',
+    borderRadius: '20px',
+    marginTop: '-180px',
+    marginBottom: '20px',
+  }}
+/>
 
 
         <h2
