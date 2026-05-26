@@ -99,7 +99,7 @@ export default function Home() {
 > 
       <section
         style={{
-          backgroundColor: 'rgba(0,0,0,0.45)',
+          backgroundColor: 'rgba(0,0,0,0.18)',
           padding: '50px',
           borderRadius: '20px',
           maxWidth: '420px',
@@ -153,7 +153,7 @@ export default function Home() {
       </section>
       <section
         style={{
-          backgroundColor: 'rgba(0,0,0,0.45)',
+          backgroundColor: 'rgba(0,0,0,0.18)',
           padding: '50px',
           borderRadius: '20px',
           maxWidth: '620px',
