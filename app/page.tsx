@@ -167,7 +167,7 @@ export default function Home() {
     width: '580px',
     marginBottom: '20px',
     position: 'relative',
-    left: '30px'
+    left: '30px',
     top: '-300px',
   }}
 />
