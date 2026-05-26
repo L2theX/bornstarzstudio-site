@@ -126,7 +126,7 @@ export default function Home() {
   style={{
     width: '320px',
     borderRadius: '20px',
-    marginTop: '-330px',
+    marginTop: '-350px',
     marginBottom: '20px',
   }}
 />
