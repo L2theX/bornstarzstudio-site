@@ -118,6 +118,16 @@ export default function Home() {
   top: '-380px',
 }}
 />
+       <img
+  src="/ChatGPT%20Image%20May%2015,%202026,%2011_53_48%20AM.3png.png"
+  alt="Aria Esme"
+  style={{
+    width: '320px',
+    borderRadius: '20px',
+    marginTop: '-180px',
+    marginBottom: '20px',
+  }}
+/>
         <h2
           style={{
             color: '#FFD700',
@@ -154,6 +164,16 @@ export default function Home() {
     marginBottom: '20px',
     position: 'relative',
     top: '-300px',
+  }}
+/>
+        <img
+  src="/ChatGPT%20Image%20May%2012,%202026,%2008_28_25%202PM.png2.png"
+  alt="DiMarco"
+  style={{
+    width: '320px',
+    borderRadius: '20px',
+    marginTop: '-180px',
+    marginBottom: '20px',
   }}
 />
         <h2
